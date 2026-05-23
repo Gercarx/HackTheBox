@@ -1,3 +1,4 @@
+![](grandpa.png)
 # Grandpa -Hack The Box Writeup
 
 ## Nmap Scan
