@@ -7,9 +7,9 @@ nmap -sCV -O iptarget
 ```
 ## dirbuster
 pagine di login(wp-login.php)
-visitamo wp-login.php
 visitiamo robots.txt 
-## flag 073403c8a58a1f80d943455fb30724b9
+# flag user 
+## 073403c8a58a1f80d943455fb30724b9
 
 ## Brute force
 in robots.dic
@@ -72,5 +72,5 @@ eseguiamo nmap --interactive
 whoami (controlliamo che siamo root)
 ```
 ora andiamo nella cartella /root
-# root flag 
+# flag root 
 ## 04787ddef27c3dee1ee161b21670b4e4
