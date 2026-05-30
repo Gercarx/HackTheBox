@@ -13,7 +13,7 @@ facendo un enumerazione file partendo da quest'ultima troveremo user.sh
 ```
 ## Netcat
 ```bash
-nc -lvnp 4444
+nc -lnvp 4444
 ```
 ## Burpsuite
 ```bash
