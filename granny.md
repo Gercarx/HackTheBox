@@ -2,7 +2,7 @@
 # Granny -Hack The Box Writeup
 ## scansione nmap
 ```bash
-nmap -sCV -O
+nmap -sCV -O iptarget
 ```
 Notiamo che microsoft iis 6.0 e' vulnerabile
 ## Msfconsole
